@@ -29,7 +29,7 @@ from pymongo.errors import OperationFailure, PyMongoError
 # Si no existeix, s'utilitza la URI per defecte.
 URI = os.getenv(
     "MONGODB_URI",
-    "mongodb+srv://creina:super3@inicimongo.xjxq0.mongodb.net/"
+    "mongodb+srv://usuari:super3@inicimongo.xjxq0.mongodb.net/"
     "?retryWrites=true&w=majority&appName=IniciMongo",
 )
 
