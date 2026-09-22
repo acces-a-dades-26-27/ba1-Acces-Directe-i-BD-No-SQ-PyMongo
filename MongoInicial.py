@@ -4,11 +4,13 @@ Connexió i operacions amb MongoDB Atlas mitjançant PyMongo
 
 REQUISITS (executar una sola vegada al terminal de PyCharm):
     pip install --upgrade pip
-    pip install --upgrade pymongo dnspython certifi
+    pip install -r requeriments.txt
 
     - pymongo   -> driver oficial de MongoDB per a Python
     - dnspython -> necessari per a les URI de tipus "mongodb+srv://" (Atlas)
     - certifi   -> certificats SSL/TLS actualitzats per evitar errors de connexió
+
+Digueu que NO a qualsevol "Install package" de PyCharm
 
 """
 
