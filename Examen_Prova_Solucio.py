@@ -12,7 +12,7 @@ from pymongo import DESCENDING, ASCENDING, DeleteMany, MongoClient, UpdateOne
 
 URI = os.getenv(
     "MONGODB_URI",
-    "mongodb+srv://creina:super3@inicimongo.xjxq0.mongodb.net/"
+    "mongodb+srv://usuari:password@inicimongo.xjxq0.mongodb.net/"
     "?retryWrites=true&w=majority&appName=IniciMongo",
 )
 
