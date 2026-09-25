@@ -1,0 +1,153 @@
+[
+  {
+    "_id": "6571a1b2c4e5f6789abcdef1",
+    "nom": "The Legend of Zelda: Breath of the Wild",
+    "preu": 59.99,
+    "plataformes": [
+      "Nintendo Switch",
+      "Wii U"
+    ],
+    "desenvolupador": {
+      "nom": "Nintendo EPD",
+      "pais": "Japó",
+      "fundat": 2015
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef2",
+    "nom": "God of War",
+    "preu": 39.99,
+    "plataformes": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "PC"
+    ],
+    "desenvolupador": {
+      "nom": "Santa Monica Studio",
+      "pais": "Estats Units",
+      "fundat": 1999
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef3",
+    "nom": "Cyberpunk 2077",
+    "preu": 29.99,
+    "plataformes": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "desenvolupador": {
+      "nom": "CD Projekt RED",
+      "pais": "Polònia",
+      "fundat": 2002
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef4",
+    "nom": "Super Mario Odyssey",
+    "preu": 54.99,
+    "plataformes": [
+      "Nintendo Switch"
+    ],
+    "desenvolupador": {
+      "nom": "Nintendo EPD",
+      "pais": "Japó",
+      "fundat": 2015
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef5",
+    "nom": "Horizon Zero Dawn",
+    "preu": 19.99,
+    "plataformes": [
+      "PlayStation 4",
+      "PC"
+    ],
+    "desenvolupador": {
+      "nom": "Guerrilla Games",
+      "pais": "Països Baixos",
+      "fundat": 2000
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef6",
+    "nom": "Red Dead Redemption 2",
+    "preu": 39.99,
+    "plataformes": [
+      "PlayStation 4",
+      "Xbox One",
+      "PC"
+    ],
+    "desenvolupador": {
+      "nom": "Rockstar Games",
+      "pais": "Estats Units",
+      "fundat": 1998
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef7",
+    "nom": "Minecraft",
+    "preu": 26.95,
+    "plataformes": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch",
+      "Mobile"
+    ],
+    "desenvolupador": {
+      "nom": "Mojang Studios",
+      "pais": "Suècia",
+      "fundat": 2009
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef8",
+    "nom": "The Witcher 3: Wild Hunt",
+    "preu": 9.99,
+    "plataformes": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "desenvolupador": {
+      "nom": "CD Projekt RED",
+      "pais": "Polònia",
+      "fundat": 2002
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdef9",
+    "nom": "Animal Crossing: New Horizons",
+    "preu": 49.99,
+    "plataformes": [
+      "Nintendo Switch"
+    ],
+    "desenvolupador": {
+      "nom": "Nintendo EPD",
+      "pais": "Japó",
+      "fundat": 2015
+    }
+  },
+  {
+    "_id": "6571a1b2c4e5f6789abcdefa",
+    "nom": "Grand Theft Auto V",
+    "preu": 29.99,
+    "plataformes": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X/S"
+    ],
+    "desenvolupador": {
+      "nom": "Rockstar Games",
+      "pais": "Estats Units",
+      "fundat": 1998
+    }
+  }
+]
